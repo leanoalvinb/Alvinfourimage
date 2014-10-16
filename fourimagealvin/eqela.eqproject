@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FourimageAlvin
+#
+
+projectname: FourimageAlvin
+vendorid: com.mycompany
+mainmodule: com.mycompany.fourimagealvin
